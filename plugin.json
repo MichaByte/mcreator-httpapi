@@ -1,0 +1,10 @@
+{
+	"id": "httpapi-procedures",
+  "minversion": 202000300000,
+	"info": {
+		"name": "HTTP requests",
+		"version": "0.0.1",
+		"author": "2231puppy",
+		"description": "A simple plugin to allow communication with an external API via HTTP requests"
+	}
+}
